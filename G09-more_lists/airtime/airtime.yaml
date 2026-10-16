@@ -1,7 +1,7 @@
-accepted: 0
+accepted: 1
 cpu_limit: 2 seconds
 difficulty: '1.4'
 mem_limit: 2048 MB
 problemid: airtime
-submissions: 0
+submissions: 3
 title: Airtime
